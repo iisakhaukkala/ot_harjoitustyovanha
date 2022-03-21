@@ -1,0 +1,145 @@
+commit 4502f5263f29f5d7a8e3ea9e468f63078fdd0202
+Author: Iisak Haukkala <iisak.haukkala@gmail.com>
+Date:   Fri Mar 18 15:41:23 2022 +0200
+
+    file1 poisto ja file2 uudelleennimentä file22
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 56a9bb3d59d953d35bdc8e9e1a28d26cbd38fdfb
+Author: Iisak Haukkala <iisak.haukkala@gmail.com>
+Date:   Fri Mar 18 15:36:12 2022 +0200
+
+    file1, file2 ja file3 luonti
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit f8aed1f997c6d595f5e3c0e1eb87b8b46c69964c
+Author: Iisak Haukkala <iisak.haukkala@gmail.com>
+Date:   Fri Mar 18 15:33:12 2022 +0200
+
+    uusi yritys :D
+
+ tiedostoja/file1 | 1 -
+ tiedostoja/file3 | 0
+ 2 files changed, 1 deletion(-)
+
+commit a19ff1b23190bb900f8d297d28a4bbaf56cf3529
+Author: Iisak Haukkala <iisak.haukkala@gmail.com>
+Date:   Fri Mar 18 15:11:51 2022 +0200
+
+    file1 muokkaus ja file2 poisto
+
+ tiedostoja/file1 | 1 +
+ tiedostoja/file2 | 0
+ 2 files changed, 1 insertion(+)
+
+commit f3ee33efa09b5710241c7daf46428495c2476321
+Author: Iisak Haukkala <iisak.haukkala@gmail.com>
+Date:   Fri Mar 18 15:09:59 2022 +0200
+
+    file1, file2 ja file3 luonti
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 6088431be238ec2096beb772f6f9c84bc96fa6b1
+Author: Iisak Haukkala <iisak.haukkala@gmail.com>
+Date:   Fri Mar 18 15:04:06 2022 +0200
+
+    eka.txt ja kolmas.txt muokkaus
+
+ eka.txt    | 8 ++++----
+ kolmas.txt | 4 +++-
+ 2 files changed, 7 insertions(+), 5 deletions(-)
+
+commit 7102b6f201057befb2a8f32e6277eac2c8712a0c
+Author: Iisak Haukkala <iisak.haukkala@gmail.com>
+Date:   Fri Mar 18 15:00:05 2022 +0200
+
+    tiedosto.txt uudelleennimentä eka.txt
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit e2eba32c8dce9570b2f8d64d52d8ab7aa107a2f5
+Author: Iisak Haukkala <iisak.haukkala@gmail.com>
+Date:   Fri Mar 18 14:58:19 2022 +0200
+
+    toinen txt poistaminen
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 3b5acc870a2c16c8d3453250643648a654344704
+Author: Iisak Haukkala <iisak.haukkala@gmail.com>
+Date:   Fri Mar 18 14:55:56 2022 +0200
+
+    tiedosto.txt tekstin muokkaus
+
+ tiedosto.txt | 5 +++--
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+
+commit 8d07fc49a3474009b1d117371d47c0c797605678
+Author: Iisak Haukkala <iisak.haukkala@gmail.com>
+Date:   Fri Mar 18 14:54:11 2022 +0200
+
+    tiedosto.txt tekstin lisäys
+
+ tiedosto.txt | 7 +++++++
+ 1 file changed, 7 insertions(+)
+
+commit 2e98684e8edddfa9f78d0a45153ad4acf0f196ba
+Author: Iisak Haukkala <iisak.haukkala@gmail.com>
+Date:   Wed Mar 16 13:19:16 2022 +0200
+
+    stuff hakemisto luonti
+
+ stuff/harri.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 6cb24a2b9f5d4f19b9b1f98d5f2a7a6904163d50
+Author: Iisak Haukkala <iisak.haukkala@gmail.com>
+Date:   Wed Mar 16 13:15:26 2022 +0200
+
+    muutokset toinen.txt ja kolmas.txt
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit c059899c06608b1fce4d8f8afcda8c5cc80fed19
+Author: Iisak Haukkala <iisak.haukkala@gmail.com>
+Date:   Wed Mar 16 13:12:27 2022 +0200
+
+    kolmas.txt luotu
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit c2adbc700644c1b718a514b6ff983ff133f3aa03
+Author: Iisak Haukkala <iisak.haukkala@gmail.com>
+Date:   Wed Mar 16 13:05:59 2022 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 906bc5ae2118c323d3ce2b9c1c457cbcfeafe3e7
+Author: Iisak Haukkala <iisak.haukkala@gmail.com>
+Date:   Wed Mar 16 13:02:37 2022 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
